@@ -19,8 +19,10 @@
   "dependencies": {
     "@types/jest": "^24.0.11",
     "@types/node": "^11.11.5",
-    "sequelize-typescript": "^1.0.0-alpha.9",
     "jest": "^24.5.0",
+    "reflect-metadata": "^0.1.13",
+    "sequelize": "^5.8.7",
+    "sequelize-typescript": "^1.0.0-alpha.9",
     "ts-jest": "^24.0.2",
     "ts-node": "^8.0.3"
   }
