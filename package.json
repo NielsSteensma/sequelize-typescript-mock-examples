@@ -1,0 +1,27 @@
+{
+  "name": "sequelize-typescript-mock-examples",
+  "version": "0.0.1",
+  "description": "",
+  "main": "app.ts",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NielsSteensma/sequelize-typescript-mock-examples.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NielsSteensma/sequelize-typescript-mock-examples/issues"
+  },
+  "homepage": "https://github.com/NielsSteensma/sequelize-typescript-mock-examples#readme",
+  "dependencies": {
+    "@types/jest": "^24.0.11",
+    "@types/node": "^11.11.5",
+    "sequelize-typescript": "^1.0.0-alpha.9",
+    "jest": "^24.5.0",
+    "ts-jest": "^24.0.2",
+    "ts-node": "^8.0.3"
+  }
+}
