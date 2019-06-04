@@ -24,6 +24,7 @@
     "sequelize": "^5.8.7",
     "sequelize-typescript": "^1.0.0-alpha.9",
     "ts-jest": "^24.0.2",
-    "ts-node": "^8.0.3"
+    "ts-node": "^8.0.3",
+    "typescript": "^3.3.4000"
   }
 }
