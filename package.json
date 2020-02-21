@@ -23,7 +23,7 @@
     "reflect-metadata": "^0.1.13",
     "sequelize": "^5.8.7",
     "sequelize-typescript": "^1.0.0-alpha.9",
-    "ts-jest": "^24.0.2",
+    "ts-jest": "^25.0.0",
     "ts-node": "^8.0.3",
     "typescript": "^3.3.4000"
   }
